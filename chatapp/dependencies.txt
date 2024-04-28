@@ -1,0 +1,195 @@
+exprience5@0.1.0 F:\chatglm3\chatapp
++-- _@babel_parser@7.20.0@@babel@ extraneous
++-- _@ctrl_tinycolor@3.4.1@@ctrl@ extraneous
++-- _@element-plus_icons-vue@2.0.10@@element-plus@ extraneous
++-- _@floating-ui_core@1.0.1@@floating-ui@ extraneous
++-- _@floating-ui_dom@1.0.4@@floating-ui@ extraneous
++-- _@sindresorhus_is@4.6.0@@sindresorhus@ extraneous
++-- _@szmarczak_http-timer@4.0.6@@szmarczak@ extraneous
++-- _@types_cacheable-request@6.0.2@@types@ extraneous
++-- _@types_http-cache-semantics@4.0.1@@types@ extraneous
++-- _@types_keyv@4.2.0@@types@ extraneous
++-- _@types_lodash-es@4.17.6@@types@ extraneous
++-- _@types_lodash@4.14.186@@types@ extraneous
++-- _@types_node@18.11.8@@types@ extraneous
++-- _@types_responselike@1.0.0@@types@ extraneous
++-- _@vue_compiler-core@3.2.41@@vue@ extraneous
++-- _@vue_compiler-dom@3.2.41@@vue@ extraneous
++-- _@vue_compiler-sfc@3.2.41@@vue@ extraneous
++-- _@vue_compiler-ssr@3.2.41@@vue@ extraneous
++-- _@vue_composition-api@1.7.1@@vue@ extraneous
++-- _@vue_reactivity-transform@3.2.41@@vue@ extraneous
++-- _@vue_reactivity@3.2.41@@vue@ extraneous
++-- _@vue_runtime-core@3.2.41@@vue@ extraneous
++-- _@vue_runtime-dom@3.2.41@@vue@ extraneous
++-- _@vue_server-renderer@3.2.41@@vue@ extraneous
++-- _@vue_shared@3.2.41@@vue@ extraneous
++-- _@vueuse_core@9.4.0@@vueuse@ extraneous
++-- _@vueuse_metadata@9.4.0@@vueuse@ extraneous
++-- _@vueuse_shared@9.4.0@@vueuse@ extraneous
++-- _asynckit@0.4.0@asynckit@npm:asynckit@0.4.0 extraneous
++-- _axios@1.1.3@axios@npm:axios@1.1.3 extraneous
++-- _cacheable-lookup@5.0.4@cacheable-lookup@npm:cacheable-lookup@5.0.4 extraneous
++-- _cacheable-request@7.0.2@cacheable-request@npm:cacheable-request@7.0.2 extraneous
++-- _call-bind@1.0.2@call-bind@npm:call-bind@1.0.2 extraneous
++-- _clone-response@1.0.3@clone-response@npm:clone-response@1.0.3 extraneous
++-- _combined-stream@1.0.8@combined-stream@npm:combined-stream@1.0.8 extraneous
++-- _csstype@2.6.21@csstype@npm:csstype@2.6.21 extraneous
++-- _dayjs@1.11.6@dayjs@npm:dayjs@1.11.6 extraneous
++-- _decompress-response@6.0.0@decompress-response@npm:decompress-response@6.0.0 extraneous
++-- _defer-to-connect@2.0.1@defer-to-connect@npm:defer-to-connect@2.0.1 extraneous
++-- _delayed-stream@1.0.0@delayed-stream@npm:delayed-stream@1.0.0 extraneous
++-- _element-plus@2.2.19@element-plus@npm:element-plus@2.2.19 extraneous
++-- _end-of-stream@1.4.4@end-of-stream@npm:end-of-stream@1.4.4 extraneous
++-- _follow-redirects@1.15.2@follow-redirects@npm:follow-redirects@1.15.2 extraneous
++-- _function-bind@1.1.1@function-bind@npm:function-bind@1.1.1 extraneous
++-- _get-intrinsic@1.1.3@get-intrinsic@npm:get-intrinsic@1.1.3 extraneous
++-- _get-stream@5.2.0@get-stream@npm:get-stream@5.2.0 extraneous
++-- _got@11.8.5@got@npm:got@11.8.5 extraneous
++-- _has@1.0.3@has@npm:has@1.0.3 extraneous
++-- _http-cache-semantics@4.1.0@http-cache-semantics@npm:http-cache-semantics@4.1.0 extraneous
++-- _http2-wrapper@1.0.3@http2-wrapper@npm:http2-wrapper@1.0.3 extraneous
++-- _json-buffer@3.0.1@json-buffer@npm:json-buffer@3.0.1 extraneous
++-- _keyv@4.5.0@keyv@npm:keyv@4.5.0 extraneous
++-- _lodash-unified@1.0.2@lodash-unified@npm:lodash-unified@1.0.2 extraneous
++-- _lowercase-keys@2.0.0@lowercase-keys@npm:lowercase-keys@2.0.0 extraneous
++-- _magic-string@0.25.9@magic-string@npm:magic-string@0.25.9 extraneous
++-- _mime-db@1.52.0@mime-db@npm:mime-db@1.52.0 extraneous
++-- _mime-types@2.1.35@mime-types@npm:mime-types@2.1.35 extraneous
++-- _mimic-response@1.0.1@mimic-response@npm:mimic-response@1.0.1 extraneous
++-- _mimic-response@3.1.0@mimic-response@npm:mimic-response@3.1.0 extraneous
++-- _ms@2.0.0@ms@npm:ms@2.0.0 extraneous
++-- _nanoid@3.3.4@nanoid@npm:nanoid@3.3.4 extraneous
++-- _normalize-url@6.1.0@normalize-url@npm:normalize-url@6.1.0 extraneous
++-- _object-inspect@1.12.2@object-inspect@npm:object-inspect@1.12.2 extraneous
++-- _once@1.4.0@once@npm:once@1.4.0 extraneous
++-- _p-cancelable@2.1.1@p-cancelable@npm:p-cancelable@2.1.1 extraneous
++-- _postcss@8.4.18@postcss@npm:postcss@8.4.18 extraneous
++-- _pump@3.0.0@pump@npm:pump@3.0.0 extraneous
++-- _qs@6.11.0@qs@npm:qs@6.11.0 extraneous
++-- _quick-lru@5.1.1@quick-lru@npm:quick-lru@5.1.1 extraneous
++-- _resolve-alpn@1.2.1@resolve-alpn@npm:resolve-alpn@1.2.1 extraneous
++-- _responselike@2.0.1@responselike@npm:responselike@2.0.1 extraneous
++-- _router@1.3.7@router@npm:router@1.3.7 extraneous
++-- _side-channel@1.0.4@side-channel@npm:side-channel@1.0.4 extraneous
++-- _source-map-js@1.0.2@source-map-js@npm:source-map-js@1.0.2 extraneous
++-- _source-map@0.6.1@source-map@npm:source-map@0.6.1 extraneous
++-- _sourcemap-codec@1.4.8@sourcemap-codec@npm:sourcemap-codec@1.4.8 extraneous
++-- _vue-demi@0.13.11@vue-demi@npm:vue-demi@0.13.11 extraneous
++-- _vue@3.2.41@vue@npm:vue@3.2.41 extraneous
++-- _wrappy@1.0.2@wrappy@npm:wrappy@1.0.2 extraneous
++-- @babel/core@7.19.6
++-- @babel/eslint-parser@7.19.1
++-- @ctrl/tinycolor@3.4.1 extraneous
++-- @element-plus/icons-vue@2.0.10 extraneous
++-- @floating-ui/core@1.0.1 extraneous
++-- @floating-ui/dom@1.0.4 extraneous
++-- @floating-ui/utils@0.2.1 extraneous -> .\node_modules\_@floating-ui_utils@0.2.1@@floating-ui\utils
++-- @highlightjs/vue-plugin@2.1.0 -> .\node_modules\_@highlightjs_vue-plugin@2.1.0@@highlightjs\vue-plugin
++-- @popperjs/core@npm:@sxzz/popperjs-es@2.11.7 extraneous
++-- @sindresorhus/is@4.6.0 extraneous
++-- @sxzz/popperjs-es@ extraneous
++-- @szmarczak/http-timer@4.0.6 extraneous
++-- @types/cacheable-request@6.0.2 extraneous
++-- @types/http-cache-semantics@4.0.1 extraneous
++-- @types/keyv@4.2.0 extraneous
++-- @types/lodash-es@4.17.6 extraneous
++-- @types/lodash@4.14.186 extraneous
++-- @types/node-fetch@2.6.11 extraneous -> .\node_modules\_@types_node-fetch@2.6.11@@types\node-fetch
++-- @types/responselike@1.0.0 extraneous
++-- @types/web-bluetooth@0.0.16 extraneous
++-- @vue/cli-plugin-babel@5.0.8
++-- @vue/cli-plugin-eslint@5.0.8
++-- @vue/cli-plugin-router@5.0.8
++-- @vue/cli-service@5.0.8
++-- @vue/compiler-core@3.2.41 extraneous
++-- @vue/compiler-dom@3.2.41 extraneous
++-- @vue/compiler-sfc@3.2.41 extraneous
++-- @vue/compiler-ssr@3.2.41 extraneous
++-- @vue/composition-api@1.7.2 -> .\node_modules\_@vue_composition-api@1.7.2@@vue\composition-api
++-- @vue/reactivity-transform@3.2.41 extraneous
++-- @vue/reactivity@3.2.41 extraneous
++-- @vue/runtime-core@3.2.41 extraneous
++-- @vue/runtime-dom@3.2.41 extraneous
++-- @vue/server-renderer@3.2.41 extraneous
++-- @vue/shared@3.2.41 extraneous
++-- @vueuse/core@9.4.0 extraneous
++-- @vueuse/metadata@9.4.0 extraneous
++-- @vueuse/shared@9.4.0 extraneous
++-- abort-controller@3.0.0 extraneous -> .\node_modules\_abort-controller@3.0.0@abort-controller
++-- agentkeepalive@4.5.0 extraneous -> .\node_modules\_agentkeepalive@4.5.0@agentkeepalive
++-- async-validator@4.2.5 extraneous
++-- asynckit@0.4.0 extraneous
++-- axios@1.6.8 -> .\node_modules\_axios@1.6.8@axios
++-- babel-helper-vue-jsx-merge-props@2.0.3 extraneous -> .\node_modules\_babel-helper-vue-jsx-merge-props@2.0.3@babel-helper-vue-jsx-merge-props
++-- babel-runtime@6.26.0 extraneous -> .\node_modules\_babel-runtime@6.26.0@babel-runtime
++-- cacheable-lookup@5.0.4 extraneous
++-- cacheable-request@7.0.2 extraneous
++-- clipboard@2.0.11 extraneous -> .\node_modules\_clipboard@2.0.11@clipboard
++-- clone-response@1.0.3 extraneous
++-- combined-stream@1.0.8 extraneous
++-- common@0.2.5 -> .\node_modules\_common@0.2.5@common
++-- core-js@3.26.0
++-- csstype@2.6.21 extraneous
++-- dayjs@1.11.6 extraneous
++-- decompress-response@6.0.0 extraneous
++-- defer-to-connect@2.0.1 extraneous
++-- define-data-property@1.1.4 extraneous -> .\node_modules\_define-data-property@1.1.4@define-data-property
++-- delayed-stream@1.0.0 extraneous
++-- delegate@3.2.0 extraneous -> .\node_modules\_delegate@3.2.0@delegate
++-- element-plus@2.7.0 -> .\node_modules\_element-plus@2.7.0@element-plus
++-- element-ui@2.15.14 -> .\node_modules\_element-ui@2.15.14@element-ui
++-- es-define-property@1.0.0 extraneous -> .\node_modules\_es-define-property@1.0.0@es-define-property
++-- es-errors@1.3.0 extraneous -> .\node_modules\_es-errors@1.3.0@es-errors
++-- eslint-plugin-vue@8.7.1
++-- eslint@7.32.0
++-- estree-walker@2.0.2 extraneous
++-- event-target-shim@5.0.1 extraneous -> .\node_modules\_event-target-shim@5.0.1@event-target-shim
++-- form-data-encoder@1.7.2 extraneous -> .\node_modules\_form-data-encoder@1.7.2@form-data-encoder
++-- form-data@4.0.0 extraneous
++-- formdata-node@4.4.1 extraneous -> .\node_modules\_formdata-node@4.4.1@formdata-node
++-- good-listener@1.2.2 extraneous -> .\node_modules\_good-listener@1.2.2@good-listener
++-- gopd@1.0.1 extraneous -> .\node_modules\_gopd@1.0.1@gopd
++-- got@11.8.5 extraneous
++-- has-proto@1.0.3 extraneous -> .\node_modules\_has-proto@1.0.3@has-proto
++-- hasown@2.0.2 extraneous -> .\node_modules\_hasown@2.0.2@hasown
++-- highlight.js@11.9.0 -> .\node_modules\_highlight.js@11.9.0@highlight.js
++-- http-cache-semantics@4.1.0 extraneous
++-- http2-wrapper@1.0.3 extraneous
++-- humanize-ms@1.2.1 extraneous -> .\node_modules\_humanize-ms@1.2.1@humanize-ms
++-- json-buffer@3.0.1 extraneous
++-- keyv@4.5.0 extraneous
++-- lodash-unified@1.0.2 extraneous
++-- lowercase-keys@2.0.0 extraneous
++-- magic-string@0.25.9 extraneous
++-- marked@12.0.2 -> .\node_modules\_marked@12.0.2@marked
++-- memoize-one@6.0.0 extraneous
++-- mimic-response@1.0.1 extraneous
++-- node-domexception@1.0.0 extraneous -> .\node_modules\_node-domexception@1.0.0@node-domexception
++-- normalize-wheel-es@1.2.0 extraneous
++-- normalize-wheel@1.0.1 extraneous -> .\node_modules\_normalize-wheel@1.0.1@normalize-wheel
++-- object-inspect@1.12.2 extraneous
++-- openai@4.38.3 -> .\node_modules\_openai@4.38.3@openai
++-- p-cancelable@2.1.1 extraneous
++-- prismjs@1.29.0 -> .\node_modules\_prismjs@1.29.0@prismjs
++-- proxy-from-env@1.1.0 extraneous
++-- qs@6.12.1 -> .\node_modules\_qs@6.12.1@qs
++-- quick-lru@5.1.1 extraneous
++-- resize-observer-polyfill@1.5.1 extraneous -> .\node_modules\_resize-observer-polyfill@1.5.1@resize-observer-polyfill
++-- resolve-alpn@1.2.1 extraneous
++-- responselike@2.0.1 extraneous
++-- router@1.3.8 -> .\node_modules\_router@1.3.8@router
++-- select@1.1.2 extraneous -> .\node_modules\_select@1.1.2@select
++-- set-function-length@1.2.2 extraneous -> .\node_modules\_set-function-length@1.2.2@set-function-length
++-- side-channel@1.0.4 extraneous
++-- throttle-debounce@1.1.0 extraneous -> .\node_modules\_throttle-debounce@1.1.0@throttle-debounce
++-- tiny-emitter@2.1.0 extraneous -> .\node_modules\_tiny-emitter@2.1.0@tiny-emitter
++-- undici-types@5.26.5 extraneous -> .\node_modules\_undici-types@5.26.5@undici-types
++-- vue-demi@0.13.11 extraneous
++-- vue-json-pretty@2.4.0 -> .\node_modules\_vue-json-pretty@2.4.0@vue-json-pretty
++-- vue-json-viewer@2.2.22 -> .\node_modules\_vue-json-viewer@2.2.22@vue-json-viewer
++-- vue-resource@1.5.3 -> .\node_modules\_vue-resource@1.5.3@vue-resource
++-- vue-router@4.1.6
++-- vue@3.4.23 -> .\node_modules\_vue@3.4.23@vue
+`-- web-streams-polyfill@4.0.0-beta.3 extraneous -> .\node_modules\_web-streams-polyfill@4.0.0-beta.3@web-streams-polyfill
+

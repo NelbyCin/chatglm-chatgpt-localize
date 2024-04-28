@@ -1,0 +1,6 @@
+{
+  "model": "gpt-3.5-turbo",
+  "api_key": "YIFxzaO3CM9xv",
+  "base_url": "https://ai.liaobots.work/v1",
+  "seed": 12345
+}

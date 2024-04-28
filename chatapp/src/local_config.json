@@ -1,0 +1,4 @@
+{
+  "model": "gpt-3.5-turbo",
+  "base_url": "http://localhost:7090/v1/chat/completions"
+}

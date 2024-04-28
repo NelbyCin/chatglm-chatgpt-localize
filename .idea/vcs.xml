@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ChatGLM3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatGLM3/chatglm3-6b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-LLM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-LLM/3rdparty/NVTX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-LLM/3rdparty/cutlass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-LLM/3rdparty/cxxopts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-LLM/3rdparty/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp/chatglm3-6b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp/examples/chatglm.cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp/third_party/ggml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp/third_party/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm.cpp/third_party/sentencepiece" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatglm3-6b" vcs="Git" />
+  </component>
+</project>
